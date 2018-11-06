@@ -1,0 +1,15 @@
+body
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: black;
+	color: white;
+}
+
+header { text-align: center; }
+
+header, .coice { margin-bottom: 60px; }
+
+.result { margin-top: 60px; }
+
+button { cursor: pointer; }
